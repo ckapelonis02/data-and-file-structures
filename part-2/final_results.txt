@@ -1,0 +1,12457 @@
+			--- S T A R T ---
+
+
+TEST CASE 1:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4108921 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+2.919E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2724975 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+3.508E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0192138 seconds
+Insertion Time:
+0.0168425 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+4.68E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0989339 seconds
+Insertion Time:
+0.103926 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.398E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 2:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.410165 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.468E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2815984 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+3.654E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0107281 seconds
+Insertion Time:
+0.0125252 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+4.42E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0416511 seconds
+Insertion Time:
+0.0762994 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.267E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 3:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4112262 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.41E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2783493 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.764E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0084031 seconds
+Insertion Time:
+0.0133547 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+5.12E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0274226 seconds
+Insertion Time:
+0.021055 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.339E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 4:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.475478 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.01E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.273421 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.451E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0078072 seconds
+Insertion Time:
+0.0120085 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+4.03E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0267238 seconds
+Insertion Time:
+0.019524 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.103E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 5:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3918115 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.456E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2764857 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.76E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0097511 seconds
+Insertion Time:
+0.0138118 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.84E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.1531671 seconds
+Insertion Time:
+0.0211613 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.084E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 6:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3904598 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.479E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2876201 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.532E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0101253 seconds
+Insertion Time:
+0.01365 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+7.24E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0391162 seconds
+Insertion Time:
+0.0342063 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.175E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 7:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4308625 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.51E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2892084 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.766E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0138645 seconds
+Insertion Time:
+0.0169658 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+4.28E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.033961 seconds
+Insertion Time:
+0.0429514 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.214E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 8:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4775191 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.33E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3223553 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.605E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.010478 seconds
+Insertion Time:
+0.0138677 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.32E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0305878 seconds
+Insertion Time:
+0.0937128 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.076E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 9:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4243836 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.526E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3225336 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.6E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0115331 seconds
+Insertion Time:
+0.0139428 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+4.01E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.1301736 seconds
+Insertion Time:
+0.0215419 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.354E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 10:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4693874 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.26E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2947608 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.416E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0099041 seconds
+Insertion Time:
+0.0139612 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.52E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0388837 seconds
+Insertion Time:
+0.0346884 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.037E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 11:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4772265 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.3E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.4023666 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.327E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0117481 seconds
+Insertion Time:
+0.0148714 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+4.13E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0626838 seconds
+Insertion Time:
+0.0851308 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.067E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 12:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4790914 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.262E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3256924 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.31E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0147139 seconds
+Insertion Time:
+0.0228317 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.35E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0452321 seconds
+Insertion Time:
+0.0523428 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.035E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 13:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4046323 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.66E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2738094 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.393E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.010961 seconds
+Insertion Time:
+0.0138117 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+4.89E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.1371355 seconds
+Insertion Time:
+0.0336245 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.089E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 14:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4159297 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.255E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3143768 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.274E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0101212 seconds
+Insertion Time:
+0.014217 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.55E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.026939 seconds
+Insertion Time:
+0.021646 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.03E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 15:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3652838 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.91E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2935883 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.615E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0103223 seconds
+Insertion Time:
+0.0138157 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+4.14E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0292982 seconds
+Insertion Time:
+0.0215391 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.784E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 16:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.395673 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.08E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3066907 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.49E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0101443 seconds
+Insertion Time:
+0.0138542 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.22E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0272388 seconds
+Insertion Time:
+0.0734619 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.04E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 17:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4130915 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.26E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2727335 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.322E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0097739 seconds
+Insertion Time:
+0.0133626 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.6E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.1233813 seconds
+Insertion Time:
+0.0213501 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.026E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 18:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4091857 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.311E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.281626 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.335E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0101479 seconds
+Insertion Time:
+0.0139589 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.32E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0384376 seconds
+Insertion Time:
+0.0376868 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.081E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 19:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3951994 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.01E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3262559 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.242E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0106932 seconds
+Insertion Time:
+0.0139267 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.38E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0297632 seconds
+Insertion Time:
+0.1360045 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.027E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 20:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.5457224 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.38E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3245947 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.261E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0100216 seconds
+Insertion Time:
+0.0138059 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.54E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.1644528 seconds
+Insertion Time:
+0.0219035 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.086E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 21:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.438886 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.03E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2934936 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.274E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0102669 seconds
+Insertion Time:
+0.013613 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+4.08E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.166512 seconds
+Insertion Time:
+0.0210158 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.04E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 22:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.5103949 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.336E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3805313 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.286E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0112209 seconds
+Insertion Time:
+0.0150742 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.87E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0493355 seconds
+Insertion Time:
+0.0388554 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.127E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 23:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.440391 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.648E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3245928 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.615E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0370934 seconds
+Insertion Time:
+0.014238 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.74E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0472321 seconds
+Insertion Time:
+0.0828836 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.13E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 24:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4122976 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.63E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2777161 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.363E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.1051535 seconds
+Insertion Time:
+0.014758 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+4.07E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0398036 seconds
+Insertion Time:
+0.021705 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.068E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 25:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4352615 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.53E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.308053 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.332E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0742797 seconds
+Insertion Time:
+0.0136791 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.76E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.038805 seconds
+Insertion Time:
+0.0213156 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.108E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 26:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.396889 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.35E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2862546 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.84E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.094466 seconds
+Insertion Time:
+0.0135872 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.91E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0499569 seconds
+Insertion Time:
+0.0211457 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.249E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 27:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4041084 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.277E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2897618 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.171E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0100901 seconds
+Insertion Time:
+0.0135585 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.32E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0263743 seconds
+Insertion Time:
+0.0213476 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.061E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 28:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3647501 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.94E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2750949 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.374E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0100712 seconds
+Insertion Time:
+0.013668 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.31E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.1339756 seconds
+Insertion Time:
+0.023092 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.061E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 29:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3862275 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.078E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2892285 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.651E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0101892 seconds
+Insertion Time:
+0.0136388 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+4.38E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0634468 seconds
+Insertion Time:
+0.0794597 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.327E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 30:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3883908 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.193E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2971648 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.214E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0105485 seconds
+Insertion Time:
+0.0136319 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.3E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.1468073 seconds
+Insertion Time:
+0.0343734 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.048E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 31:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4825599 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.251E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3229869 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.278E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0101476 seconds
+Insertion Time:
+0.0138923 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+4.08E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0386715 seconds
+Insertion Time:
+0.0348165 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.047E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 32:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4481542 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.042E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3495739 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+5.86E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0837887 seconds
+Insertion Time:
+0.0142476 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+4.02E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0420516 seconds
+Insertion Time:
+0.0216831 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.87E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 33:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4102783 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.243E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2832875 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.24E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0100272 seconds
+Insertion Time:
+0.0135823 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.29E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0283872 seconds
+Insertion Time:
+0.0313795 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.032E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 34:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3755711 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+7.92E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2797958 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.373E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0207155 seconds
+Insertion Time:
+0.0136626 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.21E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0524141 seconds
+Insertion Time:
+0.0982261 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.012E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 35:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3925946 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.289E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2861988 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.252E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0100297 seconds
+Insertion Time:
+0.0136501 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.27E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0263418 seconds
+Insertion Time:
+0.0215975 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.083E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 36:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4655653 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.29E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3011952 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.648E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.077534 seconds
+Insertion Time:
+0.0140129 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.33E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0369936 seconds
+Insertion Time:
+0.0429433 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.085E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 37:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3916602 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.87E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2939342 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.416E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0114835 seconds
+Insertion Time:
+0.0139225 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.3E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0568055 seconds
+Insertion Time:
+0.0828863 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.081E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 38:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4105023 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+7.86E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3013401 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.225E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0114704 seconds
+Insertion Time:
+0.0139858 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.24E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0703666 seconds
+Insertion Time:
+0.0906645 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.04E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 39:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4768761 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.365E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3160836 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.3E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0101853 seconds
+Insertion Time:
+0.0139342 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.34E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0403553 seconds
+Insertion Time:
+0.0347568 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.036E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 40:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4746016 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+2.356E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2854267 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.484E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0767522 seconds
+Insertion Time:
+0.0134022 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+5.22E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0377962 seconds
+Insertion Time:
+0.0210825 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.266E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 41:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.484211 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.071E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3001785 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.686E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.1077585 seconds
+Insertion Time:
+0.0136306 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+4.18E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0465383 seconds
+Insertion Time:
+0.0213986 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.1E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 42:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4021067 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.354E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.273673 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.249E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0098581 seconds
+Insertion Time:
+0.0136195 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.36E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0255991 seconds
+Insertion Time:
+0.0218733 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.111E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 43:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3653042 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+7.92E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2845231 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.673E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0102897 seconds
+Insertion Time:
+0.0133335 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.8E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.1637156 seconds
+Insertion Time:
+0.0230746 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.043E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 44:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.380503 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.77E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2770113 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.249E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0098813 seconds
+Insertion Time:
+0.0134406 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.25E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.1141783 seconds
+Insertion Time:
+0.020625 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.036E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 45:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3751232 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.288E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2743855 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.284E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0097773 seconds
+Insertion Time:
+0.0134185 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.28E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0263562 seconds
+Insertion Time:
+0.0207067 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.045E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 46:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3981246 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.66E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2794808 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.408E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0610779 seconds
+Insertion Time:
+0.0133842 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.29E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0916703 seconds
+Insertion Time:
+0.0533607 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.063E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 47:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3815846 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.56E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2767659 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.351E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0858456 seconds
+Insertion Time:
+0.0134057 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.6E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0776064 seconds
+Insertion Time:
+0.0207953 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.154E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 48:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4242188 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+7.54E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.293651 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+2.204E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0820956 seconds
+Insertion Time:
+0.0136307 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+6.18E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0397879 seconds
+Insertion Time:
+0.0338826 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.456E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 49:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4739261 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.0E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3285145 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.196E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.036888 seconds
+Insertion Time:
+0.0139631 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+4.56E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.050974 seconds
+Insertion Time:
+0.0857488 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.099E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 50:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4818568 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.343E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.4684099 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.327E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0113385 seconds
+Insertion Time:
+0.0146788 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.71E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0348124 seconds
+Insertion Time:
+0.0285755 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.146E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 51:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.6106692 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.87E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3775169 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.249E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0117383 seconds
+Insertion Time:
+0.0142761 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.31E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.1525786 seconds
+Insertion Time:
+0.0241705 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.067E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 52:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4077889 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.04E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.274036 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.412E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0099628 seconds
+Insertion Time:
+0.0135686 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+5.4E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0585127 seconds
+Insertion Time:
+0.0757025 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.274E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 53:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4042749 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.58E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2810248 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.335E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0779589 seconds
+Insertion Time:
+0.0134761 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+5.02E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0393135 seconds
+Insertion Time:
+0.0329843 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.458E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 54:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3734186 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.84E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2931631 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.289E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0318258 seconds
+Insertion Time:
+0.0135878 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.12E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0439709 seconds
+Insertion Time:
+0.0619428 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.065E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 55:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3907395 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.251E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2824389 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.667E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0097606 seconds
+Insertion Time:
+0.0135542 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.11E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0262417 seconds
+Insertion Time:
+0.0215223 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.058E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 56:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3651265 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.0E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2752114 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.589E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0599704 seconds
+Insertion Time:
+0.0132995 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.4E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0396684 seconds
+Insertion Time:
+0.0748254 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.045E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 57:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.395714 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.256E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2676166 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.2E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0098132 seconds
+Insertion Time:
+0.0136042 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.15E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.026753 seconds
+Insertion Time:
+0.0206553 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.059E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 58:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3339132 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.82E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2742987 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.215E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0584765 seconds
+Insertion Time:
+0.013673 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.13E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0381691 seconds
+Insertion Time:
+0.032157 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.089E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 59:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3768211 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.04E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2827155 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.256E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0773946 seconds
+Insertion Time:
+0.0140799 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.11E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0821793 seconds
+Insertion Time:
+0.0206968 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.036E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 60:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3920494 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.258E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2845984 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.295E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0100328 seconds
+Insertion Time:
+0.0134453 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.38E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0272006 seconds
+Insertion Time:
+0.0206697 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.053E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 61:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3751572 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.78E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2855628 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.436E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0553171 seconds
+Insertion Time:
+0.0137312 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.11E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0423851 seconds
+Insertion Time:
+0.0240129 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.102E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 62:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4023775 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.59E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3139078 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+2.104E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0820775 seconds
+Insertion Time:
+0.0140028 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+4.1E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0896623 seconds
+Insertion Time:
+0.0242772 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.192E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 63:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4020262 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.16E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.289827 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.221E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0530063 seconds
+Insertion Time:
+0.0138139 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0420522 seconds
+Insertion Time:
+0.0738825 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.037E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 64:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4189599 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.31E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3019888 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.245E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0099666 seconds
+Insertion Time:
+0.0148991 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.2E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0282114 seconds
+Insertion Time:
+0.0266068 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.113E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 65:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4697847 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.69E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2838625 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.427E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0640448 seconds
+Insertion Time:
+0.0134049 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.07E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0385312 seconds
+Insertion Time:
+0.0352358 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.061E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 66:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4114126 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+7.98E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2829115 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.183E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0648055 seconds
+Insertion Time:
+0.0137146 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.06E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0826142 seconds
+Insertion Time:
+0.0210086 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.038E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 67:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3794186 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.62E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2766572 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.297E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.1071466 seconds
+Insertion Time:
+0.0132936 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.5E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0782583 seconds
+Insertion Time:
+0.0209884 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.206E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 68:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3746727 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+7.66E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.28937 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.671E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0771026 seconds
+Insertion Time:
+0.0160989 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.45E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0391539 seconds
+Insertion Time:
+0.0351522 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+9.76E-5 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 69:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3843576 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.36E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2781066 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.244E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0365938 seconds
+Insertion Time:
+0.0133519 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.24E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0422262 seconds
+Insertion Time:
+0.073111 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.092E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 70:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4595354 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+3.467E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2835807 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.357E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0104094 seconds
+Insertion Time:
+0.0139431 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+4.56E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0293912 seconds
+Insertion Time:
+0.0219369 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.174E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 71:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4728167 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.64E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3014345 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.278E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0100302 seconds
+Insertion Time:
+0.0141744 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.37E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.1578475 seconds
+Insertion Time:
+0.0210686 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.33E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 72:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3792518 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.33E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2963498 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.251E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.019076 seconds
+Insertion Time:
+0.0136569 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.16E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.048508 seconds
+Insertion Time:
+0.0942103 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.057E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 73:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3945296 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.272E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2729789 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.235E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0102193 seconds
+Insertion Time:
+0.0132715 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.025541 seconds
+Insertion Time:
+0.0208174 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.075E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 74:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3879792 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.13E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.289822 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.256E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.059843 seconds
+Insertion Time:
+0.0135572 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.13E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0377303 seconds
+Insertion Time:
+0.0360665 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.043E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 75:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3866682 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.67E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2996828 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.219E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0644671 seconds
+Insertion Time:
+0.0139395 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.07E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0898273 seconds
+Insertion Time:
+0.0217184 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.018E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 76:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3973504 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.63E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2758363 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.297E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.1071822 seconds
+Insertion Time:
+0.0135085 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.28E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0748531 seconds
+Insertion Time:
+0.0210091 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.095E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 77:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.354761 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+7.55E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2743391 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.322E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.067093 seconds
+Insertion Time:
+0.0134336 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.28E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0383823 seconds
+Insertion Time:
+0.0315366 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.139E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 78:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3775012 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.61E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2699392 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.283E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0293869 seconds
+Insertion Time:
+0.0132453 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.25E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0421369 seconds
+Insertion Time:
+0.092219 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.052E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 79:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4550197 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.291E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2769646 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.255E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0098403 seconds
+Insertion Time:
+0.0133802 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.13E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0266431 seconds
+Insertion Time:
+0.0306011 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.087E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 80:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3720392 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.02E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2891777 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.274E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0101704 seconds
+Insertion Time:
+0.0136518 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.11E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.1946954 seconds
+Insertion Time:
+0.0206964 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.007E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 81:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4000933 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.03E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.279367 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.274E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0108313 seconds
+Insertion Time:
+0.0136022 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.28E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0535792 seconds
+Insertion Time:
+0.0788632 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.06E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 82:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3918181 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.229E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3029191 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.294E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0099191 seconds
+Insertion Time:
+0.0142102 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.12E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0362453 seconds
+Insertion Time:
+0.034651 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.021E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 83:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3562194 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.04E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2650635 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.241E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0252321 seconds
+Insertion Time:
+0.0132727 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.08E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0502862 seconds
+Insertion Time:
+0.1352644 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.01E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 84:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3796601 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.263E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2767413 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.294E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0098712 seconds
+Insertion Time:
+0.0135144 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.09E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0266193 seconds
+Insertion Time:
+0.0215377 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.043E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 85:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3739671 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.93E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2815148 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.189E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0656956 seconds
+Insertion Time:
+0.0135732 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.2E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0380126 seconds
+Insertion Time:
+0.0721515 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.078E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 86:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3885489 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.14E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2860362 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.259E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.067168 seconds
+Insertion Time:
+0.0136223 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.12E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0421872 seconds
+Insertion Time:
+0.0208504 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.035E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 87:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.417556 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.36E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3044038 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.236E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0100564 seconds
+Insertion Time:
+0.0137825 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.08E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.1657499 seconds
+Insertion Time:
+0.0258947 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.008E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 88:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4169938 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.271E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2764478 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.237E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0097662 seconds
+Insertion Time:
+0.0133472 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.16E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0261325 seconds
+Insertion Time:
+0.027588 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.096E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 89:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3705807 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.43E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2840194 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.545E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0666985 seconds
+Insertion Time:
+0.0139353 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.46E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0412479 seconds
+Insertion Time:
+0.0228142 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.036E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 90:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.41125 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.13E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2847111 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.204E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.1018529 seconds
+Insertion Time:
+0.0136568 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0883462 seconds
+Insertion Time:
+0.021294 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.068E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 91:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3816478 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.97E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2959171 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.919E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0238763 seconds
+Insertion Time:
+0.0135504 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.79E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0535473 seconds
+Insertion Time:
+0.0929498 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.127E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 92:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4198848 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.25801E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2915831 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.27299E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.010512299 seconds
+Insertion Time:
+0.0136388 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.2901E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0290243 seconds
+Insertion Time:
+0.0211782 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.061E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 93:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3651598 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.1599E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.293891399 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.204E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0631274 seconds
+Insertion Time:
+0.013805999 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.0401E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0378748 seconds
+Insertion Time:
+0.0341576 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.08E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 94:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.392565 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.19E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2926359 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.218E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0868757 seconds
+Insertion Time:
+0.013400199 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1201E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0434503 seconds
+Insertion Time:
+0.0210848 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.088E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 95:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.393197799 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.9301E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.29033 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.333E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.009731001 seconds
+Insertion Time:
+0.013328301 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.27E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.150797801 seconds
+Insertion Time:
+0.0211329 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.099E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 96:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4031682 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.26201E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.276652501 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.269E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0100272 seconds
+Insertion Time:
+0.0135685 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.15E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.026365401 seconds
+Insertion Time:
+0.0208121 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.04799E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 97:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4027622 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.61999E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2790628 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.429E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0550561 seconds
+Insertion Time:
+0.013317601 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.79E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0384938 seconds
+Insertion Time:
+0.0712251 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.136E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 98:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3895978 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.146E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.283687 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.26E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0097314 seconds
+Insertion Time:
+0.0134836 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.15E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.1188256 seconds
+Insertion Time:
+0.0212495 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.065E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 99:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.404928201 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+7.9901E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.282622101 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.20599E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0102516 seconds
+Insertion Time:
+0.0136099 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.15E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.053623599 seconds
+Insertion Time:
+0.097428701 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.204E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 100:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.436219 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.43E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3347663 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.238E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.010001799 seconds
+Insertion Time:
+0.0140324 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.19E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.1884105 seconds
+Insertion Time:
+0.0314358 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.00999E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 101:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3826859 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+7.77E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.284556001 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.59201E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.012617101 seconds
+Insertion Time:
+0.013643601 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.04E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0511622 seconds
+Insertion Time:
+0.090660999 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.041E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 102:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4101079 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.23399E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2885408 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.253E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0099238 seconds
+Insertion Time:
+0.013783 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1299E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0393133 seconds
+Insertion Time:
+0.034654801 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.03601E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 103:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3859082 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.4601E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2844089 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.224E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0655157 seconds
+Insertion Time:
+0.013439801 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.0899E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.050395899 seconds
+Insertion Time:
+0.022891 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.06801E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 104:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3896642 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.272E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2965864 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.251E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0101814 seconds
+Insertion Time:
+0.013968501 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.15E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0263615 seconds
+Insertion Time:
+0.024597899 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.08E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 105:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3227797 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.7299E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.267601699 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.293E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0648167 seconds
+Insertion Time:
+0.01335 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.11E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0487807 seconds
+Insertion Time:
+0.049557101 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.08801E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 106:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3921295 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.218E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.280008001 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.24899E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0098256 seconds
+Insertion Time:
+0.013545201 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1301E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0265306 seconds
+Insertion Time:
+0.0206887 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.025E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 107:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3620208 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.1599E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.274112701 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.24401E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0632148 seconds
+Insertion Time:
+0.013415999 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+4.4699E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0444497 seconds
+Insertion Time:
+0.0233608 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.09101E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 108:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3809009 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.46E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2750533 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.40201E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0656594 seconds
+Insertion Time:
+0.013355701 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.04E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0807716 seconds
+Insertion Time:
+0.020765 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.023E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 109:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3825741 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.69E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.309362599 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.29099E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.070362 seconds
+Insertion Time:
+0.0149046 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.27E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0805976 seconds
+Insertion Time:
+0.0233097 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.133E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 110:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.390707101 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.64E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2771522 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.257E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0106217 seconds
+Insertion Time:
+0.0136514 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.09E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0410489 seconds
+Insertion Time:
+0.0705695 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.066E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 111:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4195201 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+7.9901E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3005979 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.36399E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.009987101 seconds
+Insertion Time:
+0.0136782 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.15E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.147086 seconds
+Insertion Time:
+0.0211259 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.013E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 112:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3917119 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.255E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.278283701 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.272E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0098306 seconds
+Insertion Time:
+0.0135775 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.3E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.026464901 seconds
+Insertion Time:
+0.033373099 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.06699E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 113:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3302479 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.1499E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.283989199 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.21401E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0745379 seconds
+Insertion Time:
+0.013913399 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.07E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0359391 seconds
+Insertion Time:
+0.0239173 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.04E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 114:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3775628 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.41E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2756032 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.314E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.1066448 seconds
+Insertion Time:
+0.0132767 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.15E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0865744 seconds
+Insertion Time:
+0.0208241 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+9.9899E-5 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 115:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3850643 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.515E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.276021699 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.572E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0097236 seconds
+Insertion Time:
+0.0134774 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.8499E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0264184 seconds
+Insertion Time:
+0.021068299 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.12001E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 116:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3739433 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.19E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.268441099 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.256E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.024056499 seconds
+Insertion Time:
+0.013448599 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.14E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0479558 seconds
+Insertion Time:
+0.0953013 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.05001E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 117:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.378378101 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.27E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.275335501 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.24299E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.010123701 seconds
+Insertion Time:
+0.0133394 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1001E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.026794201 seconds
+Insertion Time:
+0.0206732 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.084E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 118:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3855884 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.62E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3048574 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.268E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0498271 seconds
+Insertion Time:
+0.013956199 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.13E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.039557099 seconds
+Insertion Time:
+0.0793085 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.295E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 119:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.390250701 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.2999E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.291202201 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.223E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0105465 seconds
+Insertion Time:
+0.013615601 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.053274799 seconds
+Insertion Time:
+0.0794067 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.007E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 120:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4179557 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.08E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2952606 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.252E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.010600901 seconds
+Insertion Time:
+0.0146672 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.22E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0704979 seconds
+Insertion Time:
+0.1159152 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.051E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 121:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3960009 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.25899E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2741023 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.26001E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0097454 seconds
+Insertion Time:
+0.0134128 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.25E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0264447 seconds
+Insertion Time:
+0.0280701 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.075E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 122:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3824353 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.03E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2754652 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.232E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0279874 seconds
+Insertion Time:
+0.0133892 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.15E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0510559 seconds
+Insertion Time:
+0.126280801 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.08799E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 123:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4195917 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.24499E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3013994 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.34E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0102031 seconds
+Insertion Time:
+0.0136023 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1001E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.027037801 seconds
+Insertion Time:
+0.0221962 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.065E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 124:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3957436 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.64E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2820866 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.4E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0684501 seconds
+Insertion Time:
+0.013624201 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.0901E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.042998099 seconds
+Insertion Time:
+0.0238236 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.046E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 125:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4100416 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.05E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.288146199 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.259E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0649701 seconds
+Insertion Time:
+0.013932999 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.16E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0807504 seconds
+Insertion Time:
+0.0216105 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.01501E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 126:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3948999 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.239E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.284165999 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.22399E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0099486 seconds
+Insertion Time:
+0.0137434 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.45E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0264231 seconds
+Insertion Time:
+0.0206865 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.051E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 127:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3914587 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.46E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.290201299 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.33199E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.078702201 seconds
+Insertion Time:
+0.0134558 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.07E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0823307 seconds
+Insertion Time:
+0.0227368 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.013E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 128:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.396852001 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.05201E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2758413 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.345E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.129431001 seconds
+Insertion Time:
+0.0133581 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.56E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0798429 seconds
+Insertion Time:
+0.0209618 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.03999E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 129:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3852939 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+7.2E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2785926 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.321E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.078496099 seconds
+Insertion Time:
+0.013388701 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.44E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0421465 seconds
+Insertion Time:
+0.0340576 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+9.98E-5 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 130:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.427036499 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.6599E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3004556 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.353E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.031394501 seconds
+Insertion Time:
+0.013554699 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.4E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.041825299 seconds
+Insertion Time:
+0.089393601 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+8.63E-5 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 131:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3781357 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.4999E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2698548 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.327E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0824416 seconds
+Insertion Time:
+0.013826 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.14E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0613087 seconds
+Insertion Time:
+0.0337777 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.181E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 132:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4161793 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.271E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.308701099 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.625E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0098227 seconds
+Insertion Time:
+0.0138042 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1799E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.028540301 seconds
+Insertion Time:
+0.0228005 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.05901E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 133:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.408056301 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.79E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2883028 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.242E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0100579 seconds
+Insertion Time:
+0.0136321 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.0499E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0553172 seconds
+Insertion Time:
+0.1096315 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.043E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 134:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4003878 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.283E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3001589 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.23001E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.009957599 seconds
+Insertion Time:
+0.0135896 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.32E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0274111 seconds
+Insertion Time:
+0.0304173 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.075E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 135:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3526532 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.036E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2786917 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.295E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0601579 seconds
+Insertion Time:
+0.0133245 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.16E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0465387 seconds
+Insertion Time:
+0.0228824 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.086E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 136:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3986767 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.016E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.309156801 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.312E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.121253201 seconds
+Insertion Time:
+0.013674 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.24E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.035941099 seconds
+Insertion Time:
+0.020846401 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.133E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 137:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3347155 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+7.85E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.281078 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.241E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.082096501 seconds
+Insertion Time:
+0.013955899 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1099E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0951859 seconds
+Insertion Time:
+0.021515801 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.37701E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 138:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.404994799 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.246E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2818507 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.265E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0098802 seconds
+Insertion Time:
+0.0140681 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.18E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.026470301 seconds
+Insertion Time:
+0.0206826 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.054E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 139:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.374804699 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.0901E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2779888 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.232E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0250534 seconds
+Insertion Time:
+0.0135568 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.09E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0506011 seconds
+Insertion Time:
+0.1054292 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.026E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 140:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4092557 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.25999E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.279265999 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.38E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.009708499 seconds
+Insertion Time:
+0.0134335 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.13E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0262194 seconds
+Insertion Time:
+0.021476801 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.035E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 141:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3692371 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.1399E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2778331 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.92301E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0435409 seconds
+Insertion Time:
+0.013604801 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+4.6099E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0376265 seconds
+Insertion Time:
+0.0803528 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.25401E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 142:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3857493 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.8501E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2923635 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.258E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.010588101 seconds
+Insertion Time:
+0.013699501 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.15E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.1206315 seconds
+Insertion Time:
+0.021749801 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.09801E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 143:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.429652499 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.4E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.296085899 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.27399E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0103502 seconds
+Insertion Time:
+0.0136673 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.15E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0601572 seconds
+Insertion Time:
+0.118931 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.04499E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 144:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4240818 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.23999E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.291771301 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.27301E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0097467 seconds
+Insertion Time:
+0.0135306 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.13E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0406456 seconds
+Insertion Time:
+0.0304894 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.051E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 145:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.363472499 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.7301E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.275544 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.226E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0588835 seconds
+Insertion Time:
+0.0134168 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.38E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.052324299 seconds
+Insertion Time:
+0.0226516 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.08599E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 146:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4047388 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.3001E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2795903 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.48701E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.1052448 seconds
+Insertion Time:
+0.0136141 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.42E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0959933 seconds
+Insertion Time:
+0.0213279 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.11899E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 147:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4052834 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.267E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2867937 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.232E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.010058799 seconds
+Insertion Time:
+0.013594899 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.15E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0277979 seconds
+Insertion Time:
+0.021288399 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.069E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 148:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4175607 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.61E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3084535 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.27201E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0637552 seconds
+Insertion Time:
+0.0136699 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.2399E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.086575201 seconds
+Insertion Time:
+0.076403699 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.576E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 149:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.391534 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.71E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3333079 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.673E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0746511 seconds
+Insertion Time:
+0.0154411 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.37E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0875603 seconds
+Insertion Time:
+0.021440801 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.092E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 150:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.371216 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+7.74E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.283676901 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.259E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0723959 seconds
+Insertion Time:
+0.0133238 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.2699E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0406829 seconds
+Insertion Time:
+0.036055599 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.047E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 151:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3730186 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.0E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2925903 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.24899E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0300383 seconds
+Insertion Time:
+0.013565399 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.2E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0427064 seconds
+Insertion Time:
+0.078551801 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.04901E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 152:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3951776 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.379E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2739878 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.273E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0097178 seconds
+Insertion Time:
+0.013519201 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.2301E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.026182899 seconds
+Insertion Time:
+0.0231025 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.09E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 153:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3721681 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.37E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2715274 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.27701E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.009836399 seconds
+Insertion Time:
+0.0133391 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.24E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.125276399 seconds
+Insertion Time:
+0.0211048 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.066E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 154:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.394964 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.83E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.280987201 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.309E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.010218499 seconds
+Insertion Time:
+0.0132894 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.2901E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.062579399 seconds
+Insertion Time:
+0.0991036 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.12201E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 155:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4069369 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.033E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2879104 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.26501E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.009781099 seconds
+Insertion Time:
+0.0135993 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.2E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.1542964 seconds
+Insertion Time:
+0.0336512 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.10001E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 156:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.410548199 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.292E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2885646 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.33199E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.010204501 seconds
+Insertion Time:
+0.0136045 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1899E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0287298 seconds
+Insertion Time:
+0.0331451 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.094E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 157:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.390356 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.20699E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2903278 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.277E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.026795 seconds
+Insertion Time:
+0.0136428 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.24E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0382968 seconds
+Insertion Time:
+0.1000912 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.03899E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 158:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3448957 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.67E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.29802 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.234E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.067095999 seconds
+Insertion Time:
+0.0137424 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.23E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0425531 seconds
+Insertion Time:
+0.034371099 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.05999E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 159:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.380924901 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.25E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2969998 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.65899E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0100703 seconds
+Insertion Time:
+0.0136635 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.2001E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.027233999 seconds
+Insertion Time:
+0.0207966 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.062E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 160:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3407001 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.319E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2754327 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.364E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0623983 seconds
+Insertion Time:
+0.0139107 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.15E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.036873099 seconds
+Insertion Time:
+0.023760401 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.21799E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 161:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.414169599 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.14E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.285151 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.274E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0692933 seconds
+Insertion Time:
+0.0137402 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.14E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0359068 seconds
+Insertion Time:
+0.021462199 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.20699E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 162:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.403807 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.25301E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2871567 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.277E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0104617 seconds
+Insertion Time:
+0.013436101 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1801E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0269062 seconds
+Insertion Time:
+0.020897901 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.059E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 163:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3746682 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.43E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.288737 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.24499E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.010943 seconds
+Insertion Time:
+0.013750899 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.2E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.122721699 seconds
+Insertion Time:
+0.0207894 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.03801E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 164:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.384401301 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.2801E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2866717 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.259E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.017853299 seconds
+Insertion Time:
+0.014143699 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1799E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.050467601 seconds
+Insertion Time:
+0.0961953 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.033E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 165:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.405497399 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.262E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2796303 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.27001E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.009847399 seconds
+Insertion Time:
+0.0138494 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.15E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.025725299 seconds
+Insertion Time:
+0.0209139 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.066E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 166:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3807359 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.36E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.287386399 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.25E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0807433 seconds
+Insertion Time:
+0.0137733 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.2E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0453315 seconds
+Insertion Time:
+0.023312401 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.131E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 167:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.403995001 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.055E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2780812 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.305E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.064152199 seconds
+Insertion Time:
+0.0139937 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.2E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0357507 seconds
+Insertion Time:
+0.0206613 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.08999E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 168:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.420466501 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.77E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.317269399 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.371E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.009763801 seconds
+Insertion Time:
+0.0138702 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.2E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.1366553 seconds
+Insertion Time:
+0.021510901 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.045E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 169:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3886473 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.252E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2788132 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.25899E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.009914001 seconds
+Insertion Time:
+0.0138744 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.13E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0267095 seconds
+Insertion Time:
+0.020690601 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.06E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 170:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.360179201 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.12E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2732095 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.27899E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0696426 seconds
+Insertion Time:
+0.0150846 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1701E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.042348701 seconds
+Insertion Time:
+0.0232795 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.03399E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 171:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4058687 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.84E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.284331 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.238E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.009922701 seconds
+Insertion Time:
+0.0136489 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.4601E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.135545 seconds
+Insertion Time:
+0.021470401 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.036E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 172:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3764448 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.86E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2744922 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.324E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.020933901 seconds
+Insertion Time:
+0.0135684 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.3E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0348418 seconds
+Insertion Time:
+0.113566 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+9.8499E-5 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 173:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.377473599 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.44E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2734112 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.294E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0102881 seconds
+Insertion Time:
+0.0141089 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.28E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0760871 seconds
+Insertion Time:
+0.1113723 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.143E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 174:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4056025 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.33E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2961574 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.34601E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.009788299 seconds
+Insertion Time:
+0.013704001 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1199E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0377651 seconds
+Insertion Time:
+0.0258646 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.084E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 175:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3905489 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.272E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2989786 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.24899E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0471555 seconds
+Insertion Time:
+0.013562701 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.5701E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0461913 seconds
+Insertion Time:
+0.1275459 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.053E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 176:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4044103 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.96E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.287753099 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.299E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0896004 seconds
+Insertion Time:
+0.013369801 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.38E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0462649 seconds
+Insertion Time:
+0.021752801 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.118E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 177:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3725267 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.73E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2767847 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.39E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0924061 seconds
+Insertion Time:
+0.013591801 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.34E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0431535 seconds
+Insertion Time:
+0.034316999 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.123E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 178:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3956697 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.267E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2896348 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.24E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.009845401 seconds
+Insertion Time:
+0.0135529 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.21E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.037851 seconds
+Insertion Time:
+0.0332739 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.08199E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 179:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3759538 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.26E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.277666299 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.271E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0099567 seconds
+Insertion Time:
+0.013374501 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.18E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0318606 seconds
+Insertion Time:
+0.0326675 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.042E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 180:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3402132 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.97E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.298585201 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.318E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0305778 seconds
+Insertion Time:
+0.013752401 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.3999E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0534949 seconds
+Insertion Time:
+0.0841791 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.07601E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 181:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.390391701 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.626E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.282352601 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.469E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.010063 seconds
+Insertion Time:
+0.0137517 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.38E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0475209 seconds
+Insertion Time:
+0.028972599 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.097E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 182:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.418909099 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+7.93E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2856841 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.535E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0486405 seconds
+Insertion Time:
+0.0133193 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.84E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.042462101 seconds
+Insertion Time:
+0.0945741 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.184E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 183:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4079566 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+7.9099E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2856106 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.228E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0842313 seconds
+Insertion Time:
+0.013950601 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.09E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.080410001 seconds
+Insertion Time:
+0.0210893 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.15901E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 184:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3877915 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.86E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2789389 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.339E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0726049 seconds
+Insertion Time:
+0.0136069 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.6199E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0765215 seconds
+Insertion Time:
+0.0229659 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.495E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 185:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4137044 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.9901E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.285965701 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.25899E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0508548 seconds
+Insertion Time:
+0.0134525 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.44E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0371452 seconds
+Insertion Time:
+0.068530099 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.058E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 186:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4025798 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.83E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2787884 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.285E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.078892401 seconds
+Insertion Time:
+0.013761601 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.2301E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0346153 seconds
+Insertion Time:
+0.0326744 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.053E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 187:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3985195 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.25E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.275601201 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.366E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.009873399 seconds
+Insertion Time:
+0.0132854 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1901E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0250243 seconds
+Insertion Time:
+0.0259733 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.05799E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 188:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.377238499 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.2E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3162574 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.321E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0100868 seconds
+Insertion Time:
+0.014623801 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.25E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.1410019 seconds
+Insertion Time:
+0.0219497 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.046E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 189:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4242935 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+7.7601E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3054434 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.182E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0107205 seconds
+Insertion Time:
+0.0138831 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.4501E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.060338999 seconds
+Insertion Time:
+0.0800486 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.00599E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 190:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4160836 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.76E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.286415899 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.351E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.098590901 seconds
+Insertion Time:
+0.0136914 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.37E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0387491 seconds
+Insertion Time:
+0.034235401 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.08699E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 191:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3918743 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.29E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.3463471 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.223E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0326745 seconds
+Insertion Time:
+0.014797801 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1199E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.045773401 seconds
+Insertion Time:
+0.0698641 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.037E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 192:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.3956047 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.324E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.299773899 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.63799E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0100881 seconds
+Insertion Time:
+0.0148199 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.2E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.028739099 seconds
+Insertion Time:
+0.024713301 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.114E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 193:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.376077301 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.5E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2749305 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.204E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.044738199 seconds
+Insertion Time:
+0.0133332 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.19E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0418335 seconds
+Insertion Time:
+0.0762793 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.04499E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 194:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4083665 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.246E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2793388 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.224E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0099403 seconds
+Insertion Time:
+0.0137629 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1301E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0265185 seconds
+Insertion Time:
+0.0213183 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.08099E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 195:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4248657 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.04E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.296960499 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.25001E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.049423001 seconds
+Insertion Time:
+0.0135624 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.19E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0366117 seconds
+Insertion Time:
+0.0834901 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.076E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 196:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4040324 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+7.8201E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2965427 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.605E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.1066652 seconds
+Insertion Time:
+0.013739501 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.1E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0827624 seconds
+Insertion Time:
+0.021699601 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.033E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 197:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.387994999 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.288E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2971129 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.229E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0098768 seconds
+Insertion Time:
+0.0136104 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.19E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0267436 seconds
+Insertion Time:
+0.0215218 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.077E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 198:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.370830201 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.2901E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2774057 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.299E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.0710578 seconds
+Insertion Time:
+0.013649999 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.2E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.042143301 seconds
+Insertion Time:
+0.0231589 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.09101E-4 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 199:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4157414 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+8.14E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.292315 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.58499E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.066202201 seconds
+Insertion Time:
+0.013852599 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.36E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.078494699 seconds
+Insertion Time:
+0.0224815 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+9.77E-5 seconds
+
+
+			--- E N D ---
+
+
+			--- S T A R T ---
+
+
+TEST CASE 200:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.4046423 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+9.02E-5 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2881651 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.358E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.1037455 seconds
+Insertion Time:
+0.0135471 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+5.2401E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.0812102 seconds
+Insertion Time:
+0.0210278 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.055E-4 seconds
+
+
+			--- E N D ---
+
+
+
+
+F I N A L  R E S U L T S:
+
+
+DynamicBST:
+
+Comparisons per insertion:
+53.0
+Insertion Time:
+0.40183001050500033 seconds
+Comparisons per deletion:
+56.0
+Deletion Time:
+1.0425150499999996E-4 seconds
+
+ArrayBST:
+
+Comparisons per insertion:
+52.0
+Insertion Time:
+0.2912513244850002 seconds
+Comparisons per deletion:
+28.0
+Deletion Time:
+1.3950248E-4 seconds
+
+
+
+
+
+ArrayHeap:
+
+Building Time:
+0.036537901019999985 seconds
+Insertion Time:
+0.013800237049999997 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+40.0
+Deletion Time:
+3.4483515E-5 seconds
+
+DynamicHeap:
+
+Building Time:
+0.058330987480000006 seconds
+Insertion Time:
+0.04257990254500002 seconds
+Comparisons per insertion:
+7.0
+Comparisons per deletion:
+117.0
+Deletion Time:
+1.1008898E-4 seconds
+
